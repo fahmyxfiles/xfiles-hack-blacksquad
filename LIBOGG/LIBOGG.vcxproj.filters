@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="BS-SDK">
+      <UniqueIdentifier>{6eb9620c-1d3a-4c37-bb3b-2f4cc672ea68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BS-SDK\Headers">
+      <UniqueIdentifier>{75398f11-8f63-4196-9abf-71042f24365e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu">
+      <UniqueIdentifier>{f3b72126-10e5-4d96-8ffc-eec0ccfc7f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu\CustomMenu">
+      <UniqueIdentifier>{ca861889-3fa3-44b6-82f7-335b59bfcb6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu\CustomMenu\XNN">
+      <UniqueIdentifier>{62e30c28-7984-4b16-8a04-9bc1bee9be3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Cognition_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Cognition_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Cognition_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Cognition_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\CombatGame_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\CombatGame_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\CombatGame_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\CombatGame_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\combatgamecontent_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\combatgamecontent_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\combatgamecontent_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\combatgamecontent_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Core_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Core_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Core_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Core_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Engine_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Engine_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Engine_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Engine_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GameFramework_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GameFramework_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GameFramework_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GameFramework_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GFxUI_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GFxUI_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GFxUI_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\GFxUI_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Grip_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Grip_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Grip_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\Grip_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\IpDrv_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\IpDrv_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\IpDrv_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\IpDrv_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\OnlineSubsystemPC_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\OnlineSubsystemPC_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\OnlineSubsystemPC_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\OnlineSubsystemPC_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\WinDrv_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\WinDrv_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\WinDrv_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\WinDrv_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\XAudio2_classes.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\XAudio2_f_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\XAudio2_functions.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SDK_HEADERS\XAudio2_structs.h">
+      <Filter>BS-SDK\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BS-SDK\SdkHeaders.h">
+      <Filter>BS-SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XorSTR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="directInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMenu.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuStruct.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomMenu\XNN\CMenu.h">
+      <Filter>Header Files\Menu\CustomMenu\XNN</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomMenu\XNN\Menu.h">
+      <Filter>Header Files\Menu\CustomMenu\XNN</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
